@@ -6,7 +6,7 @@ replace github.com/open-telemetry/opentelemetry-collector-contrib/internal/commo
 
 require (
 	github.com/aws/aws-sdk-go v1.34.5
-	github.com/google/uuid v1.1.1
+	github.com/google/uuid v1.1.4
 	github.com/googleapis/gnostic v0.4.1 // indirect
 	github.com/stretchr/testify v1.6.1
 	go.opentelemetry.io/collector v0.8.1-0.20200819173546-64befbcc0564
