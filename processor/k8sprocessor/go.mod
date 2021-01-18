@@ -11,7 +11,7 @@ require (
 	go.opentelemetry.io/collector v0.8.1-0.20200819173546-64befbcc0564
 	go.uber.org/zap v1.15.0
 	k8s.io/api v0.18.8
-	k8s.io/apimachinery v0.18.8
+	k8s.io/apimachinery v0.20.2
 	k8s.io/client-go v0.18.8
 )
 
